@@ -1,0 +1,118 @@
+/* India */
+.india {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    margin-right: 10px;
+}
+.a{
+    width: 400px;
+    height:100px;
+    background-color: orange;
+}
+.b{
+     width: 400px;
+    height:100px;
+    background-color: white;
+    background-image: url("../asset/ashokChakra.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.c{
+     width: 400px;
+    height:100px;
+    background-color: green;
+}
+.Bangladesh {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: green;
+     margin-right: 10px;
+}
+.d{
+     width: 170px;
+    height: 170px;
+    background-color: red;
+    border-radius: 300px;
+    margin: 65px 115px ;
+}
+.canada{
+     width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+     background-color: red;
+     background-image: url("../asset/canada.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.iceland{
+     width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+     background-color: blue;
+}
+.e{
+    width: 60px;
+    height: 300px;
+    background-color: white;
+    margin-left: 100px;
+}
+.f{
+    width: 400px ;
+    height: 60px;
+    background-color: white;
+    margin-top: -200px;
+}
+.g{
+    width: 50px;
+    height: 300px;
+    background-color: red;
+    margin-left: 105px;
+    margin-top: -160px;
+}
+.h{
+    width: 400px;
+    height: 50px;
+    background-color: red;
+    margin-top: -195px;
+}
+.italy{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: white;
+}
+.i{
+    background-color: green;
+    width: 133px;
+    height:300px;
+    padding: 0px;
+}
+.j{
+   background-color: red;
+   width: 133px;
+    height:300px;
+    padding: 0px;
+    margin-left: 267px;
+    margin-top: -300px;
+}
+.colombia{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: rgb(255, 238, 0);
+}
+.k{
+    width: 400px;
+    height: 80px;
+    background-color: blue;
+    margin-top: 140px;
+}
+.l{
+     width: 400px;
+    height: 80px;
+    background-color: red;
+}

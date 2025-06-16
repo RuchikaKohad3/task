@@ -1,0 +1,74 @@
+.aadhar{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black ;
+    border-radius: 10px;
+}
+.img1{
+    width: 100px;
+    height: 150px;
+    background-image: url("../asset/3lion.jpg");
+     background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -30px;
+}
+.govtH{
+    height: 25px;
+    width: 300px;
+    background-color: orange;
+    margin-top: -130px;
+    margin-left: 95px;
+}
+.govtE{
+    height: 25px;
+    width: 300px;
+    background-color:greenyellow;
+    margin-left: 95px;
+}
+.img2{
+    width: 100px;
+    height: 150px;
+    background-image: url("../asset/aadhar.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+margin-top: -110px;
+margin-left: 400px;
+}
+.img3{
+    width: 110px;
+    height: 190px;
+    background-image: url("../asset/person.jpg");
+    background-position: left;
+    background-repeat: repeat-x;
+    background-size: contain;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+.info{
+    margin-left: 170px;
+    margin-top: -170px;
+}
+.no{
+    margin-top: 40px;
+}
+.line{
+    height: 3px;
+    width: 500px;
+    background-color: red;
+    margin-top: -15px;
+}
+.l1{
+    margin-left: 150px;
+    margin-top: -10px;
+}
+.l2{
+    margin-left: 190px;
+    margin-top: -43px;
+}
+.l3{
+    margin-left: 250px;
+    margin-top: -43px;
+}
+
