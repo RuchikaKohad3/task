@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formt</title>
+    <style>
+      #myForm {
+        width: 400px;
+        height: 600px;
+        text-align: center;
+        border: 2px solid rgb(173, 170, 170);
+      }
+    </style>
+  </head>
+  <body>
+    <form id="myForm">
+      <h2>User Registration Form</h2>
+
+      First Name: <input type="text" id="fname" /><br />
+      <p id="fnameError"></p>
+
+      Last Name:<input type="text" id="lname" /><br />
+      <p id="lnameError"></p>
+
+      Mobile No.:<input type="text" id="mobile" /><br />
+      <p id="mobileError"></p>
+
+      Email: <input type="text" id="email" /><br />
+      <p id="emailError"></p>
+
+      Password:<input type="password" id="password" /><br />
+      <p id="passwordError"></p>
+
+      <button type="submit" style="background-color: green; color: azure">
+        Submit
+      </button>
+      <p id="formStatus"></p>
+    </form>
+    <script src="form.js"></script>
+  </body>
+</html>
