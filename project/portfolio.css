@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: flex;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(45, 76, 130);
+    color: aliceblue;
+}
+header ul a{
+    color: aliceblue;
+    
+}
